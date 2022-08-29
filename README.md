@@ -1,2 +1,2 @@
 
-https://agahfaruk.github.io/responsive-site/
+https://agahfaruk.github.io/Responsive-Site/
